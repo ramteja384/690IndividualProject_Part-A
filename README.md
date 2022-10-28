@@ -12,3 +12,12 @@
 - Mortality rate attributed to unsafe water, unsafe sanitation, and lack of hygiene (per 100,000 population): This indicator is part of Environment topic which defines the illness and death rate of various countries.
 
 # Countries Included:
+-India
+-United States
+-China
+-United Kingdom
+-Spain
+-Bangladesh
+
+# Time Period Included:
+By the guidance of Prof. Wang, the period of over 6 years starting from the year 2015 to the ending of the year 2020 has been selected.
