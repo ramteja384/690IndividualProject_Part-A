@@ -67,7 +67,7 @@ Comparison of Female vs Male Death Counts in 2000
 ![Scatterplot 2000](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Scatterplot%202000.png)
 
 Comparison of Female vs Male Death Counts in 2010
-![](Scatterplot 2010.png)
+![Scatterplot 2000](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Scatterplot%202010.png)
 
 # Conclusion:
 
