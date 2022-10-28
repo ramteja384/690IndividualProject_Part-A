@@ -39,7 +39,7 @@ From the above time series graph the observations are as follows:
 # Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
 Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
 
-![](Mortality_rate_unsafe_water_Bar_graph.png)
+![Mortality_rate_unsafe_water_Bar_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Mortality_rate_unsafe_water_Bar_graph.png)
 
 The following information can be depicted from the above time series graph:
 
@@ -50,9 +50,9 @@ Also, the wastage from such organizations should be monitored and that wastage m
 
 # How does mortality rate relate with total population and number of deaths that are caused by the communicable diseases?
 
-![](cause_of_death_by_nutrition_Timeseries_graph.png)
+![cause_of_death_by_nutrition_Timeseries_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/cause_of_death_by_nutrition_Timeseries_graph.png)
 
-![](Total_population_Piechart.png)
+![Total_population_Piechart](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Total_population_Piechart.png)
 
 The above observations of mortality rate and total population are as follows:
 
