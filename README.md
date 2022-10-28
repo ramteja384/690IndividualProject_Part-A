@@ -61,9 +61,13 @@ The above observations of mortality rate and total population are as follows:
 - It all depends on the country’s GDP because these deaths can be reduced by practicing the nutrition diet. This requires some budget to be allocated and that’s the reason we see a smaller number of communicable deaths in the developed nations and a greater number of cases in less developed nations.
 - For example, in this case we see Bangladesh though it has population that other countries we see greater number of deaths and its number for the GDP is almost very less.
 
+In the below 2D scatterplots, we can observe the comparison of the female and male infant death counts starting in 2000 and the overall death counts at the end of the decade. i.e 2010.
+
+Comparison of Female vs Male Death Counts in 2000
+![](Scatterplot 2000.png)
+Comparison of Female vs Male Death Counts in 2010
+![](Scatterplot 2010.png)
+
 # Conclusion:
 
 These observations are made on the data that has been compared among the few countries. GDP acts as the key for the country to decide whether it is developed, under developing or less developed stage. Nations must make efforts to increase their GDP so that they can see progress in every aspect. We can even consider more countries and try to see how this factor called GDP is playing a key role on a larger area.
-
-
-
