@@ -29,7 +29,7 @@ In this document we see detailed explanation regarding how these changes have be
 
 # How does GDP per capita and Mortality rate due to unsafe conditions relate?
 ## GDP per capita by year in different countries:
-![GDP_percapita_Timeseries_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/GDP_percapita_Timeseries_graph.png)
+![GDP_percapita_Timeseries_graph](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/GDP_percapita_Timeseries_graph.png)
 From the above time series graph the observations are as follows:
 - GDP per capita of Bangladesh is almost consistent from the year 2015 to 2020 when compared to other countries.
 - Almost the same trend has been seen for India and China to. They maintained the same consistency over the period of time.
@@ -39,7 +39,7 @@ From the above time series graph the observations are as follows:
 # Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
 Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
 
-![Mortality_rate_unsafe_water_Bar_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Mortality_rate_unsafe_water_Bar_graph.png)
+![Mortality_rate_unsafe_water_Bar_graph](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/Mortality_rate_unsafe_water_Bar_graph.png)
 
 The following information can be depicted from the above time series graph:
 
@@ -50,9 +50,9 @@ Also, the wastage from such organizations should be monitored and that wastage m
 
 # How does mortality rate relate with total population and number of deaths that are caused by the communicable diseases?
 
-![cause_of_death_by_nutrition_Timeseries_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/cause_of_death_by_nutrition_Timeseries_graph.png)
+![cause_of_death_by_nutrition_Timeseries_graph](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/cause_of_death_by_nutrition_Timeseries_graph.png)
 
-![Total_population_Piechart](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Total_population_Piechart.png)
+![Total_population_Piechart](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/Total_population_Piechart.png)
 
 The above observations of mortality rate and total population are as follows:
 
@@ -64,10 +64,9 @@ The above observations of mortality rate and total population are as follows:
 In the below 2D scatterplots, we can observe the comparison of the female and male infant death counts starting in 2000 and the overall death counts at the end of the decade. i.e 2010.
 
 Comparison of Female vs Male Death Counts in 2000
-![Scatterplot 2000](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Scatterplot%202000.png)
-
+![Scatterplot 2000](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/Scatterplot%202000.png)
 Comparison of Female vs Male Death Counts in 2010
-![Scatterplot 2000](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Scatterplot%202010.png)
+![Scatterplot 2010](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/Scatterplot%202010.png))
 
 # Conclusion:
 
