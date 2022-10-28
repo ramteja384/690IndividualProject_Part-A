@@ -65,6 +65,7 @@ In the below 2D scatterplots, we can observe the comparison of the female and ma
 
 Comparison of Female vs Male Death Counts in 2000
 ![](Scatterplot 2000.png)
+
 Comparison of Female vs Male Death Counts in 2010
 ![](Scatterplot 2010.png)
 
