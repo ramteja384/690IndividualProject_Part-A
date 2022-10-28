@@ -26,3 +26,14 @@ By the guidance of Prof. Wang, the period of over 6 years starting from the year
 In present world, we see a rapid growth in the technology. In accordance to that technology we also see drastic changes that are being happen in our environment. These changes may be due to modernization or giving more concern regarding the development rather than concentrating on the environment.
 
 In this document we see detailed explanation regarding how these changes have been affecting the health condition of the people and also the economy conditions.
+
+# How does GDP per capita and Mortality rate due to unsafe conditions relate?
+## GDP per capita by year in different countries:
+
+
+
+
+
+
+
+
