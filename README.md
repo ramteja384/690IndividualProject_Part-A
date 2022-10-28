@@ -64,7 +64,7 @@ The above observations of mortality rate and total population are as follows:
 In the below 2D scatterplots, we can observe the comparison of the female and male infant death counts starting in 2000 and the overall death counts at the end of the decade. i.e 2010.
 
 Comparison of Female vs Male Death Counts in 2000
-![](Scatterplot 2000.png)
+![Scatterplot 2000](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/Scatterplot%202000.png)
 
 Comparison of Female vs Male Death Counts in 2010
 ![](Scatterplot 2010.png)
