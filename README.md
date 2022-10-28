@@ -49,7 +49,7 @@ Also, the wastage from such organizations should be monitored and that wastage m
 
 # How does mortality rate relate with total population and number of deaths that are caused by the communicable diseases?
 
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 The above observations of mortality rate and total population are as follows:
 
 - China has the highest number of population but when we see the deaths that are caused due to communicable diseases and maternal, prenatal and nutrition conditions it has very less numbers. This has proven that though the country has the largest numbers in terms of population, it can still be healthy by following proper nutrition.
