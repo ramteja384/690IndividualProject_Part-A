@@ -29,7 +29,7 @@ In this document we see detailed explanation regarding how these changes have be
 
 # How does GDP per capita and Mortality rate due to unsafe conditions relate?
 ## GDP per capita by year in different countries:
-![](GDP_percapita_Timeseries_graph.png)
+![GDP_percapita_Timeseries_graph](https://github.com/ramteja384/690IndividualProject_Part-A/blob/main/GDP_percapita_Timeseries_graph.png)
 From the above time series graph the observations are as follows:
 - GDP per capita of Bangladesh is almost consistent from the year 2015 to 2020 when compared to other countries.
 - Almost the same trend has been seen for India and China to. They maintained the same consistency over the period of time.
