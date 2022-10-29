@@ -20,7 +20,7 @@
 - Bangladesh
 
 # Time Period Included:
-By the guidance of Prof. Wang, the period of over 10 years starting from the year 2010 to the ending of the year 2020 has been selected.
+By the guidance of Prof. Wang, the period of over 5 years starting from the year 2015 to the ending of the year 2020 has been selected.
 
 # Intoduction:
 The technology is expanding quickly in the modern world. As a result of that technology, our environment is likewise undergoing significant changes. These modifications may be the result of modernization or a shift toward focusing more on development than the environment.
