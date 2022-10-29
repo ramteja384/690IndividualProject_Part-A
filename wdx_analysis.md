@@ -6,10 +6,10 @@
 - Environment
 
 # Indicators Included:
-- GDP per capita, PPP (current international $): This indicator is part of Economy and Growth topic. GDP stands for Gross Domestic Product which means gross domestic product divided by midyear population. It defines the country’s economic output.
-- Population, total: This indicator is part of Health topic which defines the total number of population for each country in respective years.
-- Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total): This indicator is part of Health topic which defines the total number of deaths that has occurred due to malnutrition and other various communicable diseases.
-- Mortality rate attributed to unsafe water, unsafe sanitation, and lack of hygiene (per 100,000 population): This indicator is part of Environment topic which defines the illness and death rate of various countries.
+- GDP per capita, PPP (current international $): This indicator falls under the topic of economy and growth. Gross Domestic Product, or GDP, is defined as GDP divided by the midyear population. It describes the economic production of the nation.
+- Population, total: This indicator is a part of the Health subject, which specifies the total population by year for each nation.
+- Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total): This indicator, which is a part of the Health topic, shows how many people have died overall as a result of communicable diseases and malnutrition.
+- Mortality rate attributed to unsafe water, unsafe sanitation, and lack of hygiene (per 100,000 population): This indicator is a part of the Environment subject, which details the global disease and mortality rates.
 
 # Countries Included:
 - India
@@ -20,33 +20,33 @@
 - Bangladesh
 
 # Time Period Included:
-By the guidance of Prof. Wang, the period of over 6 years starting from the year 2015 to the ending of the year 2020 has been selected.
+By the guidance of Prof. Wang, the period of over 10 years starting from the year 2010 to the ending of the year 2020 has been selected.
 
 # Intoduction:
-In present world, we see a rapid growth in the technology. In accordance to that technology we also see drastic changes that are being happen in our environment. These changes may be due to modernization or giving more concern regarding the development rather than concentrating on the environment.
+The technology is expanding quickly in the modern world. As a result of that technology, our environment is likewise undergoing significant changes. These modifications may be the result of modernization or a shift toward focusing more on development than the environment.
 
-In this document we see detailed explanation regarding how these changes have been affecting the health condition of the people and also the economy conditions.
+This document provides a detailed description of how these developments have affected both the people's health and the state of the economy.
 
 # How does GDP per capita and Mortality rate due to unsafe conditions relate?
 ## GDP per capita by year in different countries:
 ![GDP_percapita_Timeseries_graph](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/GDP_percapita_Timeseries_graph.png)
 From the above time series graph the observations are as follows:
-- GDP per capita of Bangladesh is almost consistent from the year 2015 to 2020 when compared to other countries.
-- Almost the same trend has been seen for India and China to. They maintained the same consistency over the period of time.
-- But the scenario was different in case of USA, Spain and United Kingdom.
-- We see an increment in their GDP during there initial years but over the coming years there respective GDP followed downward trend. This may be due to drastic change in the economy or reducing the sources that can generate the economy.
+- When compared to other nations, Bangladesh's GDP per capita has been remarkably stable between the years 2015 and 2020.
+- For both China and India, the pattern has been nearly the same. Over the years, they stayed the same in constancy.
+- But in the cases of the USA, Spain, and the UK, the situation was different.
+- During the first few years, we observe an increase in their GDP, but during the following years, the GDP of each country decelerated. This might be the result of a significant shift in the economy or a reduction in the sources that can drive it.
 
 # Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
-Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
+Simply put, mortality rate is a measurement of how frequently people die in a given population over a certain time period. It is a mathematical representation that is used to calculate how many people get sick or die each year.
 
 ![Mortality_rate_unsafe_water_Bar_graph](https://github.com/ramteja384/data690_world_dev/blob/main/Charts/Mortality_rate_unsafe_water_Bar_graph.png)
 
 The following information can be depicted from the above time series graph:
 
-- India has the highest mortality rate in the year 2016 when compared to other countries with 18.6.
-- China, United States and Spain has less mortality rate with 0.2 These deaths or illness are due to the exploitations that humans are creating in the name of development. For example, if an industry is constructed with in the city, then it affects severely the people living in its surroundings.
+- When compared to other nations, India had the highest mortality rate in 2016 with 18.6.
+- China, the United States, and Spain had lower mortality rates with 0.2 each. The exploitations that people are doing in the name of progress are to blame for these illnesses or fatalities. For instance, when a new industrial is built inside a city, the residents who live nearby suffer greatly.
 
-Also, the wastage from such organizations should be monitored and that wastage must be diverted to preestablished places rather than diverting them to open water. In the above graph we see few deaths occurred because of unsafe water, this is majorly due to the pollution that the industries create. This is just one example; we see many cases that are happening around us on frequent basis.
+Additionally, waste from these groups needs to be controlled and directed to predetermined locations rather than open water. We can see in the graph above that there have been a few fatalities related to contaminated water, primarily as a result of industrial contamination. This is just one situation; there are countless others that occur frequently all around us.
 
 # How does mortality rate relate with total population and number of deaths that are caused by the communicable diseases?
 
@@ -56,10 +56,10 @@ Also, the wastage from such organizations should be monitored and that wastage m
 
 The above observations of mortality rate and total population are as follows:
 
-- China has the highest number of population but when we see the deaths that are caused due to communicable diseases and maternal, prenatal and nutrition conditions it has very less numbers. This has proven that though the country has the largest numbers in terms of population, it can still be healthy by following proper nutrition.
-- But in case of India, we see quite interesting numbers. India has the second highest population and initially in the year 2015 it even has highest number of deaths. On a good note, these numbers got reduced to an extent by the year and till date from 2015 those numbers are still decreasing.
-- It all depends on the country’s GDP because these deaths can be reduced by practicing the nutrition diet. This requires some budget to be allocated and that’s the reason we see a smaller number of communicable deaths in the developed nations and a greater number of cases in less developed nations.
-- For example, in this case we see Bangladesh though it has population that other countries we see greater number of deaths and its number for the GDP is almost very less.
+- China has the largest population, but it has a very low number of mortality from communicable diseases, maternal, prenatal, and nutrition-related problems. This has demonstrated that even though the nation has the greatest population, it is still possible to maintain good health by eating the right foods.
+- The stats for India, though, are pretty intriguing. India has the second-largest population and, at first, the biggest number of fatalities in 2015. Fortunately, these numbers have decreased somewhat each year since 2010, and they have continued to decline as of 2015.
+- It all depends on the GDP of the nation because adopting a healthy diet can cut down on these fatalities. There are fewer communicable mortality in rich countries and more cases in less developed countries because of the need to allocate some funds for this.
+- Although Bangladesh has a larger population than some other nations, it has more deaths there, and its GDP is virtually significantly lower.
 
 In the below 2D scatterplots, we can observe the comparison of the female and male infant death counts starting in 2000 and the overall death counts at the end of the decade. i.e 2010.
 
@@ -70,4 +70,4 @@ Comparison of Female vs Male Death Counts in 2010
 
 # Conclusion:
 
-These observations are made on the data that has been compared among the few countries. GDP acts as the key for the country to decide whether it is developed, under developing or less developed stage. Nations must make efforts to increase their GDP so that they can see progress in every aspect. We can even consider more countries and try to see how this factor called GDP is playing a key role on a larger area.
+These conclusions are drawn from data that has been compared across a small number of nations. The country's GDP determines whether it is in a developed, underdeveloped, or less developed stage. Nations must work to raise their GDP in order to experience progress in all spheres. We can even take into account more nations to try to determine the extent to which the GDP component is important on a global scale.
